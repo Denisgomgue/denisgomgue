@@ -55,9 +55,9 @@ Me apasiona crear experiencias digitales intuitivas y visualmente atractivas, do
 
 <div align="center">
 
-[![¡Envíame un mensaje!](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:tuemail@ejemplo.com)
+[![¡Envíame un mensaje!](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:deniscristiamhz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuusuario)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github)](https://github.com/tuusuario)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github)](https://github.com/denisgomgue)
 
 </div>
 
